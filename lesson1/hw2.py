@@ -1,7 +1,7 @@
 a = int(input("1сторона"))
 b = int(input("2сторона"))
 c = int(input("3сторона"))
-print = (a+b+c)
+print = (a*b*c)
 print = ("периметер трикутникф")
 d = int(input("1сторона"))
 r = int(input("2сторона"))
